@@ -1,0 +1,14 @@
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\Kveðja\Kveðja\bin\Debug\net8.0\Kveðja.exe
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\Kveðja\Kveðja\bin\Debug\net8.0\Kveðja.deps.json
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\Kveðja\Kveðja\bin\Debug\net8.0\Kveðja.runtimeconfig.json
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\Kveðja\Kveðja\bin\Debug\net8.0\Kveðja.dll
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\Kveðja\Kveðja\bin\Debug\net8.0\Kveðja.pdb
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\Kveðja\Kveðja\obj\Debug\net8.0\Kveðja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\Kveðja\Kveðja\obj\Debug\net8.0\Kveðja.AssemblyInfoInputs.cache
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\Kveðja\Kveðja\obj\Debug\net8.0\Kveðja.AssemblyInfo.cs
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\Kveðja\Kveðja\obj\Debug\net8.0\Kveðja.csproj.CoreCompileInputs.cache
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\Kveðja\Kveðja\obj\Debug\net8.0\Kveðja.dll
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\Kveðja\Kveðja\obj\Debug\net8.0\refint\Kveðja.dll
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\Kveðja\Kveðja\obj\Debug\net8.0\Kveðja.pdb
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\Kveðja\Kveðja\obj\Debug\net8.0\Kveðja.genruntimeconfig.cache
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\Kveðja\Kveðja\obj\Debug\net8.0\ref\Kveðja.dll
